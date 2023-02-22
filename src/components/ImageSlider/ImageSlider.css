@@ -1,0 +1,15 @@
+.image-slider {
+    display: flex;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.image-slider__indicator {
+    position: absolute;
+    top: 10px;
+    right: 70px;
+    color: red;
+    margin: 0;
+    font-weight: 600;
+    font-size: 20px;
+} 
